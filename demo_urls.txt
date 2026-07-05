@@ -1,0 +1,7 @@
+# Competitor Snapshot demo — privacy-focused web analytics tools.
+# Public marketing sites; one URL per line. Lines starting with # are ignored.
+https://plausible.io
+https://www.goatcounter.com
+https://matomo.org
+https://usefathom.com
+https://www.simpleanalytics.com
